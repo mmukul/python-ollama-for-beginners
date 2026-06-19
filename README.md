@@ -12,9 +12,4 @@ pip install -r requirements.txt
 
 ```bash
 python app.py
-python chatbot.py
 ```
-
-## Author
-
-Mukul Malhotra
